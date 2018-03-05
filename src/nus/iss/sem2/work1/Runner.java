@@ -4,7 +4,7 @@
 package nus.iss.sem2.work1;
 
 /**
- * @author c.banisetty
+ * @author student Chaturvedi
  *
  */
 public class Runner {
